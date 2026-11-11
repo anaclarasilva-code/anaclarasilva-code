@@ -54,23 +54,19 @@ Acredito no aprendizado contínuo e no desenvolvimento de soluções que conecte
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=anaclarasilva-code&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default"/>
+<img src="https://github-stats-extended.vercel.app/api?username=anaclarasilva-code&show_icons=true&hide_border=true&theme=default" height="160" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclarasilva-code&layout=compact&hide_border=true&theme=default"/>
-
-</div>
-
-## Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaclarasilva-code&bg_color=ffffff&color=555555&line=607d8b&point=607d8b&area=true&hide_border=true" width="100%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=anaclarasilva-code&layout=compact&hide_border=true&theme=default" height="160" />
 
 </div>
 
----
+## Atividade no GitHub
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaclarasilva-code&theme=minimal&hide_border=true&area=true" width="100%" />
+
+</div>
 
 **Em constante aprendizado e desenvolvimento.**
 
