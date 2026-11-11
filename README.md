@@ -64,7 +64,11 @@ Acredito no aprendizado contínuo e no desenvolvimento de soluções que conecte
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anaclarasilva-code&theme=minimal&hide_border=true&area=true" width="100%" />
+<img
+  src="https://contribkit.app/user/anaclarasilva-code.svg"
+  width="100%"
+  alt="Mapa de contribuições no GitHub"
+/>
 
 </div>
 
